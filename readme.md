@@ -1,6 +1,4 @@
-# Dynamic Price Feature - Yelp Camp
-
-## Steps
-- Add price to campground model as a String datatype
-- Add price to views/campgrounds/new.ejs and views/campgrounds/edit.ejs (new and edit forms)
-- Add price to views/camprounds/show.ejs (campground show page)
+# Yelp Camp
+ 
+Yelpcamp is a yelp clone for campsites, built with Mongo, Express and Node (MEN).
+It allows account creation, content creation and commenting. Comment consistency is incomplete.
